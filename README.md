@@ -1,6 +1,6 @@
  # Bookshop_Analysis 
 
-**This project focuses to provide strategic insights and data analysis for various stakeholders in the literature industry, including aspiring authors, sales managers, publishers, and business development directors**
+**This project focuses to provide strategic insights and data analysis for various stakeholders in the literature industry, including aspiring authors, sales managers, and publishers**
 
 ## Aspiring Author Analysis
 *This will help new authors choose their publishers and genre to emerge in the literary world*
